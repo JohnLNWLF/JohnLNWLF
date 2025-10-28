@@ -2,7 +2,7 @@
 
 > “Código, cafeína y Rawk And Roll.” ☕🤘
 
-![Banner](https://raw.githubusercontent.com/JohnLNWLF/JohnLNWLF/main/assets/banner.png)
+
 
 ## 🔥 Sobre mí
 - 💻 Aprendiendo desarrollo web (HTML, CSS, JS) y Python/Flask.
