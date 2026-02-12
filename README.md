@@ -7,7 +7,6 @@
 ## 🔥 Sobre mí
 - 💻 Aprendiendo desarrollo web (HTML, CSS, JS) y Python/Flask.
 - 🛡️ Interesado en seguridad informática y hacking ético.
-- 🐧 Usuario de Linux Mint XFCE. Amor por el código libre.
 - 🎸 Rock & roll, fotografía B/N, y longboard cuando se puede.
 
 ## 🧰 Tecnologías
