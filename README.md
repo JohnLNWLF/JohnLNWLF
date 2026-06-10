@@ -1,15 +1,12 @@
-# ⚡ JohnLNWLF Mode: ON 🕶️
+# ⚡⛧ Hi, I'm John LNWLF⛧⚡ 
 
-> “Código, cafeína y Rawk And Roll.” ☕🤘
+> “Code, coffe and Rawk And Roll.” ☕🤘 
 
+Constantly learning, building, breaking thing and turning confusion into commits.
 
+## 🚀 Currently on the path of
 
-## 🔥 Sobre mí
-- 💻 Aprendiendo desarrollo web (HTML, CSS, JS) y Python/Flask.
-- 🛡️ Interesado en seguridad informática y hacking ético.
-- 🎸 Rock & roll, fotografía B/N, y longboard cuando se puede.
-
-## 🧰 Tecnologías
+## 🧰 Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,17 +14,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 
+## 📚 My learning journey
 
-## 📊 Mis stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnLNWLF&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLNWLF&layout=compact&theme=tokyonight)
-
-## 🏆 Logros
-![Trophies](https://github-profile-trophy.vercel.app/?username=JohnLNWLF&theme=darkhub&no-bg=true&no-frame=true)
+I'm documenting my path as a full-stack developer and cybersecurity redhat team.
 
 ---
 
 ### 📬 Contáctame 
 - Correo: fullmayhem@tuta.io
 
-> 🖤 *Code. Break. Build. Repeat.* — JohnLNWLF
+> May the source be with you...
