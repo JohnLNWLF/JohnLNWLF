@@ -1,6 +1,6 @@
 # ⚡⛧ Hi, I'm John LNWLF⛧⚡ 
 
-> “Code, coffe and Rawk And Roll.” ☕🤘 
+> “Code, coffee and Rawk And Roll.” ☕🤘 
 
 Constantly learning, building and breaking things.And maybe someday i'm knocking your back door
 
@@ -14,7 +14,7 @@ Constantly learning, building and breaking things.And maybe someday i'm knocking
 
 ## My learning journey
 
-I'm documenting my path as a full-stack developer and cybersecurity red hat team.
+I'm documenting my path as a full-stack developer and cybersecurity red team.
 
 ---
 
