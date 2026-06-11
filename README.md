@@ -19,6 +19,6 @@ I'm documenting my path as a full-stack developer and cybersecurity red team.
 ---
 
 ### 📬 Contact
-- johnlnwlf@tuta.com
+- fullmayhem@tuta.io
 
 > May the source be with you...
