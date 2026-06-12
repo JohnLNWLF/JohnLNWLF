@@ -2,7 +2,9 @@
 
 > “Code, coffee and Rawk And Roll.” ☕🤘 
 
-Constantly learning, building and breaking things.And maybe someday i'm knocking your back door
+Constantly learning, building and breaking things
+
+And maybe someday i'm knocking your back door.............
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
